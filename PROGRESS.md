@@ -8,3 +8,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-03-31 8:44 AM — Task 13 (Sigmoid → Softmax Output)
 **[Setup]** Create/open relevant files for Sigmoid → Softmax Output implementation
+
+## 2025-03-31 9:28 AM — Task 13 (Sigmoid → Softmax Output)
+**[notebook]** Verify output probabilities sum to 1 on sample batch
