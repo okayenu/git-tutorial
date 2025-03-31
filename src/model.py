@@ -305,3 +305,5 @@ def get_optimizer(name: str, lr: float = LEARNING_RATE):
 import numpy as np  # noqa: E402
 
 # [2025-03-31 9:07 AM] Task 13: Change final Dense activation from sigmoid to softmax
+
+# [2025-03-31 9:23 AM] Task 13: Change loss from binary_crossentropy to categorical_crossentropy
