@@ -26,3 +26,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-03-31 7:03 PM — Task 13 (Sigmoid → Softmax Output)
 **[Review]** Cross-check Sigmoid → Softmax Output behavior against expected spec
+
+## 2025-03-31 7:19 PM — Task 13 (Sigmoid → Softmax Output)
+**[Test]** Add parametrized pytest case for Sigmoid → Softmax Output boundary conditions
