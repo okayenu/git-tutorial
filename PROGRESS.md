@@ -59,3 +59,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-01 9:23 PM — Task 13 (Sigmoid → Softmax Output)
 **[Review]** Cross-check Sigmoid → Softmax Output behavior against expected spec
+
+## 2025-04-02 8:44 AM — Task 13 (Sigmoid → Softmax Output)
+**[Polish]** Refactor Sigmoid → Softmax Output code for readability and DRY principles
