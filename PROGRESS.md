@@ -275,3 +275,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-10 5:03 PM — Task 39 (requirements.txt)
 **[Review]** Review Task 39 output against ROADMAP acceptance criteria
+
+## 2025-04-10 7:03 PM — Task 39 (requirements.txt)
+**[Docs]** Add Task 39 entry to CHANGELOG.md
