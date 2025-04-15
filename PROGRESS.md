@@ -335,3 +335,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-14 5:38 PM — Task 40 (config.py)
 **[Review]** Review Task 40 output against ROADMAP acceptance criteria
+
+## 2025-04-14 8:44 PM — Task 40 (config.py)
+**[Docs]** Add Task 40 entry to CHANGELOG.md
