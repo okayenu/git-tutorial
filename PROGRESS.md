@@ -374,3 +374,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-16 11:13 AM — Task 22 (Early Stopping)
 **[debug]** Fix restore_best_weights failing if no improvement at all
+
+## 2025-04-16 12:07 PM — Task 22 (Early Stopping)
+**[evaluate]** Log stopped_epoch and best val_loss in training report
