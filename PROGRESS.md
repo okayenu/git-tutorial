@@ -515,3 +515,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-21 6:22 PM — Task 23 (Model Checkpointing)
 **[Error]** Add try/except around Model Checkpointing critical path with fallback
+
+## 2025-04-21 7:03 PM — Task 23 (Model Checkpointing)
+**[Debug]** Profile Model Checkpointing for speed/memory regressions
