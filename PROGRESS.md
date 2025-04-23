@@ -557,3 +557,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-23 9:14 AM — Task 24 (Training Curves Visualization)
 **[Setup]** Create/open relevant files for Training Curves Visualization implementation
+
+## 2025-04-23 3:07 PM — Task 24 (Training Curves Visualization)
+**[evaluate.py]** Write plot_training_history(history, save_path) for loss+acc
