@@ -560,3 +560,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-23 3:07 PM — Task 24 (Training Curves Visualization)
 **[evaluate.py]** Write plot_training_history(history, save_path) for loss+acc
+
+## 2025-04-23 4:28 PM — Task 24 (Training Curves Visualization)
+**[evaluate.py]** Plot train and val curves on same axes with legend
