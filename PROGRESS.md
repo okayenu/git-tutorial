@@ -551,3 +551,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-22 10:47 PM — Task 23 (Model Checkpointing)
 **[Evaluate]** Re-run evaluation metrics after Model Checkpointing fix
+
+## 2025-04-23 8:03 AM — Task 24 (Training Curves Visualization)
+**[Plan]** Review Task 24 (Training Curves Visualization) requirements and acceptance criteria
