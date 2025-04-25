@@ -605,3 +605,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-24 11:19 PM — Task 24 (Training Curves Visualization)
 **[Docs]** Update inline comments in modified files for Training Curves Visualization
+
+## 2025-04-25 8:37 AM — Task 24 (Training Curves Visualization)
+**[Integrate]** Wire Training Curves Visualization into main.py pipeline end-to-end
