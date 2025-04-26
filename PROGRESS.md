@@ -629,3 +629,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-25 9:11 PM — Task 24 (Training Curves Visualization)
 **[Error]** Add try/except around Training Curves Visualization critical path with fallback
+
+## 2025-04-25 11:19 PM — Task 24 (Training Curves Visualization)
+**[Debug]** Profile Training Curves Visualization for speed/memory regressions
