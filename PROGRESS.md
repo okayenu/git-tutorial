@@ -680,3 +680,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-28 9:14 AM — Task 3 (Class Distribution Plot)
 **[evaluate.py]** Add label-imbalance warning if max/min ratio > 2
+
+## 2025-04-28 11:13 AM — Task 3 (Class Distribution Plot)
+**[test]** Assert bar count equals NUM_CLASSES (10)
