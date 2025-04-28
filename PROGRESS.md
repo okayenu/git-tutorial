@@ -674,3 +674,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-28 8:03 AM — Task 3 (Class Distribution Plot)
 **[evaluate.py]** Write plot_class_distribution(y, title, save_path)
+
+## 2025-04-28 8:52 AM — Task 3 (Class Distribution Plot)
+**[notebook]** Call plot_class_distribution on raw train labels
