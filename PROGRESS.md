@@ -725,3 +725,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-29 6:22 PM — Task 3 (Class Distribution Plot)
 **[Review]** Review Task 3 output against ROADMAP acceptance criteria
+
+## 2025-04-29 7:44 PM — Task 3 (Class Distribution Plot)
+**[Docs]** Add Task 3 entry to CHANGELOG.md
