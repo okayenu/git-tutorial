@@ -731,3 +731,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-04-29 8:07 PM — Task 3 (Class Distribution Plot)
 **[Evaluate]** Log Task 3 final metrics/results to REPORT.md
+
+## 2025-04-29 11:19 PM — Task 3 (Class Distribution Plot)
+**[Debug]** Re-test edge cases after latest changes to Class Distribution Plot
