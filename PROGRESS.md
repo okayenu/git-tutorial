@@ -797,3 +797,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-02 12:18 PM — Task 1 (Pixel Normalization)
 **[test]** Assert pixel range [0,1] on sample batch
+
+## 2025-05-02 12:33 PM — Task 1 (Pixel Normalization)
+**[debug]** Fix off-by-one if scaler divides by 256 instead of 255
