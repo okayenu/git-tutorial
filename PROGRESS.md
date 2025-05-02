@@ -785,3 +785,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-01 10:17 PM — Task 1 (Pixel Normalization)
 **[Debug]** Re-test edge cases after latest changes to Pixel Normalization
+
+## 2025-05-02 10:44 AM — Task 1 (Pixel Normalization)
+**[Integrate]** Wire Pixel Normalization into main.py pipeline end-to-end
