@@ -887,3 +887,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-05 11:19 PM — Task 30 (Confusion Matrix)
 **[Review]** Code-review Confusion Matrix implementation for edge cases
+
+## 2025-05-06 9:28 AM — Task 30 (Confusion Matrix)
+**[Integrate]** Wire Confusion Matrix into main.py pipeline end-to-end
