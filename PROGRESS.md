@@ -893,3 +893,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-06 10:19 AM — Task 30 (Confusion Matrix)
 **[Test]** Run integration test: main.py with Confusion Matrix active
+
+## 2025-05-06 11:13 AM — Task 30 (Confusion Matrix)
+**[notebook]** Plot confusion matrix on validation predictions
