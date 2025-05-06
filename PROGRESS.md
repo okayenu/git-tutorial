@@ -896,3 +896,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-06 11:13 AM — Task 30 (Confusion Matrix)
 **[notebook]** Plot confusion matrix on validation predictions
+
+## 2025-05-06 11:29 AM — Task 30 (Confusion Matrix)
+**[test]** Assert matrix shape is (NUM_CLASSES, NUM_CLASSES)
