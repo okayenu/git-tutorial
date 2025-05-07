@@ -908,3 +908,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-06 6:07 PM — Task 30 (Confusion Matrix)
 **[docs]** Save to results/confusion_matrix_{model_name}.png
+
+## 2025-05-06 7:44 PM — Task 30 (Confusion Matrix)
+**[Error]** Add try/except around Confusion Matrix critical path with fallback
