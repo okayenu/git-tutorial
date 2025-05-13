@@ -1076,3 +1076,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-13 8:52 AM — Task 4 (Hold-out Test Split)
 **[Integrate]** Wire Hold-out Test Split into main.py pipeline end-to-end
+
+## 2025-05-13 9:14 AM — Task 4 (Hold-out Test Split)
+**[Test]** Run integration test: main.py with Hold-out Test Split active
