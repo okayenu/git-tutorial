@@ -1073,3 +1073,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-12 7:19 PM — Task 4 (Hold-out Test Split)
 **[Review]** Cross-check Hold-out Test Split behavior against expected spec
+
+## 2025-05-13 8:52 AM — Task 4 (Hold-out Test Split)
+**[Integrate]** Wire Hold-out Test Split into main.py pipeline end-to-end
