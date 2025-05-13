@@ -1082,3 +1082,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-13 12:44 PM — Task 4 (Hold-out Test Split)
 **[test]** Assert split proportions within ±1% of target
+
+## 2025-05-13 3:22 PM — Task 4 (Hold-out Test Split)
+**[debug]** Fix stratify error if class has fewer samples than n_splits
