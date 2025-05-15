@@ -1133,3 +1133,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-14 9:11 PM — Task 4 (Hold-out Test Split)
 **[Test]** Add parametrized pytest case for Hold-out Test Split boundary conditions
+
+## 2025-05-14 9:38 PM — Task 4 (Hold-out Test Split)
+**[Review]** Cross-check Hold-out Test Split behavior against expected spec
