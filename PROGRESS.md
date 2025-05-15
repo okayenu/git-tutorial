@@ -1136,3 +1136,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-14 9:38 PM — Task 4 (Hold-out Test Split)
 **[Review]** Cross-check Hold-out Test Split behavior against expected spec
+
+## 2025-05-15 8:44 AM — Task 5 (Git LFS / CSV Data Loading)
+**[Plan]** Review Task 5 (Git LFS / CSV Data Loading) requirements and acceptance criteria
