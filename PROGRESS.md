@@ -1151,3 +1151,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-15 5:19 PM — Task 5 (Git LFS / CSV Data Loading)
 **[Debug]** Verify dev environment: imports, paths, configs for Git LFS / CSV Data Loading
+
+## 2025-05-15 7:53 PM — Task 5 (Git LFS / CSV Data Loading)
+**[Test]** Add parametrized pytest case for Git LFS / CSV Data Loading boundary conditions
