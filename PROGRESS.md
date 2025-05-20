@@ -1235,3 +1235,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-19 9:38 PM — Task 5 (Git LFS / CSV Data Loading)
 **[Docs]** Update inline comments in modified files for Git LFS / CSV Data Loading
+
+## 2025-05-19 10:02 PM — Task 5 (Git LFS / CSV Data Loading)
+**[Test]** Add parametrized pytest case for Git LFS / CSV Data Loading boundary conditions
