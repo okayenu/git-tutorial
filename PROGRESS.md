@@ -1289,3 +1289,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-22 10:33 PM — Task 2 (Data Augmentation)
 **[debug]** Fix AUTOTUNE bottleneck if augmentation slows pipeline
+
+## 2025-05-23 11:29 AM — Task 2 (Data Augmentation)
+**[notebook]** Visualize 9 augmented samples from augment_layer
