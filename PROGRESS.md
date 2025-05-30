@@ -1403,3 +1403,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-05-29 8:44 PM — Task 6 (tf.data Pipeline)
 **[debug]** Resolve TF graph tracing error from Python loops inside map()
+
+## 2025-05-29 10:17 PM — Task 6 (tf.data Pipeline)
+**[evaluate]** Profile pipeline with tf.profiler to find bottleneck
