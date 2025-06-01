@@ -1433,3 +1433,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-01 11:02 AM — Task 6 (tf.data Pipeline)
 **[test]** Benchmark throughput: steps/sec with and without pipeline
+
+## 2025-06-01 12:44 PM — Task 6 (tf.data Pipeline)
+**[debug]** Fix OOM error if shuffle buffer too large for RAM
