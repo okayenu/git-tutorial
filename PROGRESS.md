@@ -1448,3 +1448,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-02 8:52 AM — Task 6 (tf.data Pipeline)
 **[Test]** Run integration test: main.py with tf.data Pipeline active
+
+## 2025-06-02 9:28 AM — Task 6 (tf.data Pipeline)
+**[test]** Benchmark throughput: steps/sec with and without pipeline
