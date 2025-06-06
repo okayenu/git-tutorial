@@ -1568,3 +1568,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-05 9:11 PM — Task 7 (Visualize Augmented Samples)
 **[Evaluate]** Re-run evaluation metrics after Visualize Augmented Samples fix
+
+## 2025-06-06 9:28 AM — Task 7 (Visualize Augmented Samples)
+**[evaluate.py]** Write visualize_augmented_batch(ds, n=9, save_path) fn
