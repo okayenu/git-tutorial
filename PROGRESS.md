@@ -1598,3 +1598,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-06 6:07 PM — Task 7 (Visualize Augmented Samples)
 **[Review]** Cross-check Visualize Augmented Samples behavior against expected spec
+
+## 2025-06-06 7:28 PM — Task 7 (Visualize Augmented Samples)
+**[Test]** Add parametrized pytest case for Visualize Augmented Samples boundary conditions
