@@ -1661,3 +1661,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-10 8:44 AM — Task 8 (Per-channel Standardization)
 **[Test]** Run integration test: main.py with Per-channel Standardization active
+
+## 2025-06-10 9:53 AM — Task 8 (Per-channel Standardization)
+**[test]** Assert standardized train mean ≈ 0, std ≈ 1
