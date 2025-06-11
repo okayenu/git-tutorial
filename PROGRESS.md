@@ -1679,3 +1679,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-10 6:07 PM — Task 8 (Per-channel Standardization)
 **[Debug]** Profile Per-channel Standardization for speed/memory regressions
+
+## 2025-06-10 7:19 PM — Task 8 (Per-channel Standardization)
+**[Test]** Edge-case test: Per-channel Standardization with empty/corrupt/extreme inputs
