@@ -1712,3 +1712,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-11 4:02 PM — Task 8 (Per-channel Standardization)
 **[Docs]** Add Task 8 entry to CHANGELOG.md
+
+## 2025-06-11 9:23 PM — Task 8 (Per-channel Standardization)
+**[Evaluate]** Log Task 8 final metrics/results to REPORT.md
