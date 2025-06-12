@@ -1718,3 +1718,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-11 10:33 PM — Task 8 (Per-channel Standardization)
 **[Review]** Cross-check Per-channel Standardization behavior against expected spec
+
+## 2025-06-11 11:45 PM — Task 8 (Per-channel Standardization)
+**[Docs]** Update inline comments in modified files for Per-channel Standardization
