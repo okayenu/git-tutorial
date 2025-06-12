@@ -1715,3 +1715,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-11 9:23 PM — Task 8 (Per-channel Standardization)
 **[Evaluate]** Log Task 8 final metrics/results to REPORT.md
+
+## 2025-06-11 10:33 PM — Task 8 (Per-channel Standardization)
+**[Review]** Cross-check Per-channel Standardization behavior against expected spec
