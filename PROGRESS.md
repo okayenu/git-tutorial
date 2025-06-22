@@ -1943,3 +1943,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-22 9:23 AM — Task 41 (Unit Tests with pytest)
 **[tests/]** Write test_model.py: test output shape, softmax sum, param count
+
+## 2025-06-22 10:19 AM — Task 41 (Unit Tests with pytest)
+**[tests/]** Write test_evaluate.py: test confusion matrix shape, AUC range
