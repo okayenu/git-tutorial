@@ -1985,3 +1985,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-23 11:37 PM — Task 41 (Unit Tests with pytest)
 **[Test]** Run unit tests for Unit Tests with pytest; fix failures
+
+## 2025-06-24 10:07 AM — Task 41 (Unit Tests with pytest)
+**[Integrate]** Wire Unit Tests with pytest into main.py pipeline end-to-end
