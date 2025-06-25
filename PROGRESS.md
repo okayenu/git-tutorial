@@ -2018,3 +2018,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-24 11:45 PM — Task 41 (Unit Tests with pytest)
 **[Review]** Cross-check Unit Tests with pytest behavior against expected spec
+
+## 2025-06-25 8:52 AM — Task 41 (Unit Tests with pytest)
+**[Polish]** Refactor Unit Tests with pytest code for readability and DRY principles
