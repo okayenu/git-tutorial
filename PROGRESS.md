@@ -2135,3 +2135,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-06-30 7:03 PM — Task 31 (Per-class Accuracy Callback)
 **[Test]** Run unit tests for Per-class Accuracy Callback; fix failures
+
+## 2025-06-30 7:28 PM — Task 31 (Per-class Accuracy Callback)
+**[Debug]** Inspect shapes/types/values in Per-class Accuracy Callback pipeline step
