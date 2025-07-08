@@ -2321,3 +2321,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-07 11:45 PM — Task 10 (Batch Normalization)
 **[Test]** Run unit tests for Batch Normalization; fix failures
+
+## 2025-07-08 11:29 AM — Task 10 (Batch Normalization)
+**[notebook]** Compare training curves: with BN vs without BN
