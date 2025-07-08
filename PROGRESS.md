@@ -2324,3 +2324,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-08 11:29 AM — Task 10 (Batch Normalization)
 **[notebook]** Compare training curves: with BN vs without BN
+
+## 2025-07-08 3:22 PM — Task 10 (Batch Normalization)
+**[test]** Assert BN layer exists in model.layers list
