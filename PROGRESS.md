@@ -2354,3 +2354,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-09 9:28 AM — Task 10 (Batch Normalization)
 **[Test]** Run integration test: main.py with Batch Normalization active
+
+## 2025-07-09 10:28 AM — Task 10 (Batch Normalization)
+**[test]** Assert BN layer exists in model.layers list
