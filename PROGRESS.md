@@ -2351,3 +2351,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-09 9:14 AM — Task 10 (Batch Normalization)
 **[Integrate]** Wire Batch Normalization into main.py pipeline end-to-end
+
+## 2025-07-09 9:28 AM — Task 10 (Batch Normalization)
+**[Test]** Run integration test: main.py with Batch Normalization active
