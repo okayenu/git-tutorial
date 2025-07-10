@@ -2375,3 +2375,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-09 7:53 PM — Task 10 (Batch Normalization)
 **[Debug]** Profile Batch Normalization for speed/memory regressions
+
+## 2025-07-09 8:19 PM — Task 10 (Batch Normalization)
+**[Test]** Edge-case test: Batch Normalization with empty/corrupt/extreme inputs
