@@ -2381,3 +2381,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-09 9:23 PM — Task 10 (Batch Normalization)
 **[Evaluate]** Re-run evaluation metrics after Batch Normalization fix
+
+## 2025-07-09 10:33 PM — Task 10 (Batch Normalization)
+**[Review]** Cross-check Batch Normalization behavior against expected spec
