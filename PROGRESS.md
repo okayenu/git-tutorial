@@ -2501,3 +2501,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-15 10:44 AM — Task 11 (Deeper 4-Block CNN)
 **[test]** Assert model has 4 MaxPooling2D layers
+
+## 2025-07-15 11:02 AM — Task 11 (Deeper 4-Block CNN)
+**[debug]** Fix spatial dims collapse (output 0x0) if MaxPool applied too many times
