@@ -2552,3 +2552,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-16 7:44 PM — Task 11 (Deeper 4-Block CNN)
 **[Test]** Edge-case test: Deeper 4-Block CNN with empty/corrupt/extreme inputs
+
+## 2025-07-16 8:33 PM — Task 11 (Deeper 4-Block CNN)
+**[Docs]** Update inline comments in modified files for Deeper 4-Block CNN
