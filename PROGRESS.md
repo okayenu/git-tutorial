@@ -2579,3 +2579,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-17 6:07 PM — Task 11 (Deeper 4-Block CNN)
 **[Error]** Add try/except around Deeper 4-Block CNN critical path with fallback
+
+## 2025-07-18 8:44 AM — Task 11 (Deeper 4-Block CNN)
+**[Polish]** Refactor Deeper 4-Block CNN code for readability and DRY principles
