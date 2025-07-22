@@ -2651,3 +2651,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-22 9:28 AM — Task 14 (Wider Filters 5x5)
 **[debug]** Fix memory overflow if 5x5 kernels on 28x28 images too deep
+
+## 2025-07-22 10:19 AM — Task 14 (Wider Filters 5x5)
+**[evaluate]** Compare 5x5 vs 3x3 val accuracy; check parameter count
