@@ -2705,3 +2705,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-23 11:45 PM — Task 14 (Wider Filters 5x5)
 **[Test]** Add parametrized pytest case for Wider Filters 5x5 boundary conditions
+
+## 2025-07-24 10:28 AM — Task 14 (Wider Filters 5x5)
+**[Integrate]** Wire Wider Filters 5x5 into main.py pipeline end-to-end
