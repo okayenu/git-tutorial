@@ -2714,3 +2714,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-24 1:07 PM — Task 14 (Wider Filters 5x5)
 **[test]** Assert first Conv2D has kernel_size (5,5) in 5x5 model
+
+## 2025-07-24 1:19 PM — Task 14 (Wider Filters 5x5)
+**[debug]** Fix memory overflow if 5x5 kernels on 28x28 images too deep
