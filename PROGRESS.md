@@ -2759,3 +2759,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-25 6:22 PM — Task 14 (Wider Filters 5x5)
 **[Evaluate]** Log Task 14 final metrics/results to REPORT.md
+
+## 2025-07-25 8:33 PM — Task 14 (Wider Filters 5x5)
+**[Test]** Add parametrized pytest case for Wider Filters 5x5 boundary conditions
