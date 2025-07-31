@@ -2858,3 +2858,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-30 8:07 PM — Task 15 (Global Average Pooling)
 **[docs]** Document GAP advantages: fewer params, spatial average
+
+## 2025-07-30 8:33 PM — Task 15 (Global Average Pooling)
+**[Error]** Add try/except around Global Average Pooling critical path with fallback
