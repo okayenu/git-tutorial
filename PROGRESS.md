@@ -2867,3 +2867,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-07-30 11:19 PM — Task 15 (Global Average Pooling)
 **[Test]** Edge-case test: Global Average Pooling with empty/corrupt/extreme inputs
+
+## 2025-07-31 8:03 AM — Task 15 (Global Average Pooling)
+**[Integrate]** Wire Global Average Pooling into main.py pipeline end-to-end
