@@ -2924,3 +2924,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-01 11:37 PM — Task 15 (Global Average Pooling)
 **[Debug]** Re-test edge cases after latest changes to Global Average Pooling
+
+## 2025-08-02 11:29 AM — Task 16 (VGG-style Architecture)
+**[Plan]** Review Task 16 (VGG-style Architecture) requirements and acceptance criteria
