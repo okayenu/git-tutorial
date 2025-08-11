@@ -3131,3 +3131,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-11 11:13 AM — Task 25 (Optimizer Comparison)
 **[test]** Assert get_optimizer raises ValueError for unknown name
+
+## 2025-08-11 11:37 AM — Task 25 (Optimizer Comparison)
+**[debug]** Fix SGD not converging: enable momentum=0.9
