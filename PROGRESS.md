@@ -3179,3 +3179,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-12 4:13 PM — Task 25 (Optimizer Comparison)
 **[Debug]** Profile Optimizer Comparison for speed/memory regressions
+
+## 2025-08-12 7:53 PM — Task 25 (Optimizer Comparison)
+**[Test]** Edge-case test: Optimizer Comparison with empty/corrupt/extreme inputs
