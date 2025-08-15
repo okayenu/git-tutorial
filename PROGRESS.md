@@ -3236,3 +3236,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-14 8:44 PM — Task 25 (Optimizer Comparison)
 **[Docs]** Add Task 25 entry to CHANGELOG.md
+
+## 2025-08-14 11:03 PM — Task 25 (Optimizer Comparison)
+**[Evaluate]** Log Task 25 final metrics/results to REPORT.md
