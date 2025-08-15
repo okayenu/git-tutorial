@@ -3233,3 +3233,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-14 7:44 PM — Task 25 (Optimizer Comparison)
 **[Review]** Review Task 25 output against ROADMAP acceptance criteria
+
+## 2025-08-14 8:44 PM — Task 25 (Optimizer Comparison)
+**[Docs]** Add Task 25 entry to CHANGELOG.md
