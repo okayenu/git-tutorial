@@ -3293,3 +3293,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-17 9:28 AM — Task 26 (Label Smoothing)
 **[Integrate]** Wire Label Smoothing into main.py pipeline end-to-end
+
+## 2025-08-17 10:07 AM — Task 26 (Label Smoothing)
+**[Test]** Run integration test: main.py with Label Smoothing active
