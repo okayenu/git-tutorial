@@ -3329,3 +3329,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-18 8:33 PM — Task 26 (Label Smoothing)
 **[Review]** Review Task 26 output against ROADMAP acceptance criteria
+
+## 2025-08-18 8:44 PM — Task 26 (Label Smoothing)
+**[Docs]** Add Task 26 entry to CHANGELOG.md
