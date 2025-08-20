@@ -3356,3 +3356,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-19 11:45 PM — Task 27 (Batch Size Experiments)
 **[Review]** Cross-check Batch Size Experiments behavior against expected spec
+
+## 2025-08-20 2:44 PM — Task 27 (Batch Size Experiments)
+**[evaluate]** Build batch_size vs val_acc table
