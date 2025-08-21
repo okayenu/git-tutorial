@@ -3380,3 +3380,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-20 11:45 PM — Task 27 (Batch Size Experiments)
 **[Review]** Code-review Batch Size Experiments implementation for edge cases
+
+## 2025-08-21 8:44 AM — Task 27 (Batch Size Experiments)
+**[Integrate]** Wire Batch Size Experiments into main.py pipeline end-to-end
