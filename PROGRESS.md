@@ -3401,3 +3401,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-21 9:38 PM — Task 27 (Batch Size Experiments)
 **[docs]** Recommend batch size in config.py comment with reasoning
+
+## 2025-08-21 10:47 PM — Task 27 (Batch Size Experiments)
+**[Error]** Add try/except around Batch Size Experiments critical path with fallback
