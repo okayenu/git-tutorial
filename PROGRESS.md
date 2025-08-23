@@ -3428,3 +3428,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-22 8:19 PM — Task 27 (Batch Size Experiments)
 **[Docs]** Add Task 27 entry to CHANGELOG.md
+
+## 2025-08-22 9:38 PM — Task 27 (Batch Size Experiments)
+**[Evaluate]** Log Task 27 final metrics/results to REPORT.md
