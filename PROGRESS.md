@@ -3431,3 +3431,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-22 9:38 PM — Task 27 (Batch Size Experiments)
 **[Evaluate]** Log Task 27 final metrics/results to REPORT.md
+
+## 2025-08-22 11:45 PM — Task 27 (Batch Size Experiments)
+**[Debug]** Re-test edge cases after latest changes to Batch Size Experiments
