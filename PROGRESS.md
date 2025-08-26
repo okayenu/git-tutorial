@@ -3485,3 +3485,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-25 10:33 PM — Task 28 (L2 Regularization)
 **[Test]** Add parametrized pytest case for L2 Regularization boundary conditions
+
+## 2025-08-26 8:03 AM — Task 28 (L2 Regularization)
+**[Integrate]** Wire L2 Regularization into main.py pipeline end-to-end
