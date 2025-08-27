@@ -3500,3 +3500,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-26 5:38 PM — Task 28 (L2 Regularization)
 **[evaluate]** Compare val curves with L2 vs without to confirm regularization effect
+
+## 2025-08-26 7:28 PM — Task 28 (L2 Regularization)
+**[docs]** Document L2 rate selection rationale
