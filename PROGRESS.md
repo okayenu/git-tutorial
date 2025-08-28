@@ -3539,3 +3539,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-27 8:33 PM — Task 28 (L2 Regularization)
 **[Review]** Review Task 28 output against ROADMAP acceptance criteria
+
+## 2025-08-27 8:44 PM — Task 28 (L2 Regularization)
+**[Docs]** Add Task 28 entry to CHANGELOG.md
