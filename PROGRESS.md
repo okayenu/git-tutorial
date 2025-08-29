@@ -3569,3 +3569,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-28 9:38 PM — Task 33 (ROC-AUC Analysis)
 **[Debug]** Verify dev environment: imports, paths, configs for ROC-AUC Analysis
+
+## 2025-08-29 9:23 AM — Task 33 (ROC-AUC Analysis)
+**[evaluate.py]** Write plot_roc_curves(y_true_oh, y_pred_prob, class_names, save_path)
