@@ -3596,3 +3596,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-08-29 11:45 PM — Task 33 (ROC-AUC Analysis)
 **[Debug]** Inspect shapes/types/values in ROC-AUC Analysis pipeline step
+
+## 2025-08-30 11:13 AM — Task 33 (ROC-AUC Analysis)
+**[evaluate.py]** Write plot_roc_curves(y_true_oh, y_pred_prob, class_names, save_path)
