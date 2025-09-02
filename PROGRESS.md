@@ -3656,3 +3656,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-01 4:28 PM — Task 33 (ROC-AUC Analysis)
 **[Review]** Review Task 33 output against ROADMAP acceptance criteria
+
+## 2025-09-01 7:19 PM — Task 33 (ROC-AUC Analysis)
+**[Docs]** Add Task 33 entry to CHANGELOG.md
