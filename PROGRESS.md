@@ -3731,3 +3731,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-03 11:03 PM — Task 34 (Calibration Analysis)
 **[Test]** Add parametrized pytest case for Calibration Analysis boundary conditions
+
+## 2025-09-04 8:44 AM — Task 34 (Calibration Analysis)
+**[evaluate.py]** Write plot_calibration(y_true, y_prob, class_names, save_path)
