@@ -3776,3 +3776,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-05 9:07 AM — Task 34 (Calibration Analysis)
 **[Test]** Run integration test: main.py with Calibration Analysis active
+
+## 2025-09-05 10:44 AM — Task 34 (Calibration Analysis)
+**[notebook]** Plot reliability diagrams for each class
