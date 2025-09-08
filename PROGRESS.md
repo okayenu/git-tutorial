@@ -3842,3 +3842,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-08 9:07 AM — Task 9 (Resize Images to 32x32 for Transfer Learning)
 **[Setup]** Create/open relevant files for Resize Images to 32x32 for Transfer Learning implementation
+
+## 2025-09-08 1:19 PM — Task 9 (Resize Images to 32x32 for Transfer Learning)
+**[test]** Assert output shape (None, 32, 32, 3)
