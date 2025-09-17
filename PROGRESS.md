@@ -59,3 +59,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-17 10:28 AM — Task 12 (ResNet-style Skip Connections)
 **[test]** Assert output shape matches expected (None, NUM_CLASSES)
+
+## 2025-09-17 1:28 PM — Task 12 (ResNet-style Skip Connections)
+**[debug]** Fix shape mismatch in Add() layer when strides differ
