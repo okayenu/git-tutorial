@@ -62,3 +62,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-17 1:28 PM — Task 12 (ResNet-style Skip Connections)
 **[debug]** Fix shape mismatch in Add() layer when strides differ
+
+## 2025-09-17 2:17 PM — Task 12 (ResNet-style Skip Connections)
+**[debug]** Resolve vanishing gradient if too many residual blocks stacked
