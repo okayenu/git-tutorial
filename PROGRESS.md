@@ -104,3 +104,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-18 11:45 PM — Task 12 (ResNet-style Skip Connections)
 **[Test]** Run unit tests for ResNet-style Skip Connections; fix failures
+
+## 2025-09-19 10:44 AM — Task 12 (ResNet-style Skip Connections)
+**[Integrate]** Wire ResNet-style Skip Connections into main.py pipeline end-to-end
