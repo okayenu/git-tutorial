@@ -113,3 +113,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-19 1:44 PM — Task 12 (ResNet-style Skip Connections)
 **[debug]** Resolve vanishing gradient if too many residual blocks stacked
+
+## 2025-09-19 2:03 PM — Task 12 (ResNet-style Skip Connections)
+**[debug]** Fix identity shortcut not matching filter dim at block boundary
