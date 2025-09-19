@@ -107,3 +107,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-09-19 10:44 AM — Task 12 (ResNet-style Skip Connections)
 **[Integrate]** Wire ResNet-style Skip Connections into main.py pipeline end-to-end
+
+## 2025-09-19 1:28 PM — Task 12 (ResNet-style Skip Connections)
+**[Test]** Run integration test: main.py with ResNet-style Skip Connections active
