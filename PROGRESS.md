@@ -4184,3 +4184,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-02 7:53 PM — Task 29 (Mixed-Precision Training (float16))
 **[Test]** Run unit tests for Mixed-Precision Training (float16); fix failures
+
+## 2025-10-02 8:44 PM — Task 29 (Mixed-Precision Training (float16))
+**[Debug]** Inspect shapes/types/values in Mixed-Precision Training (float16) pipeline step
