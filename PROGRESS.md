@@ -4478,3 +4478,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-14 9:07 AM — Task 36 (Robustness Testing)
 **[Setup]** Create/open relevant files for Robustness Testing implementation
+
+## 2025-10-14 11:29 AM — Task 36 (Robustness Testing)
+**[evaluate.py]** Write add_gaussian_noise(images, std=0.1)
