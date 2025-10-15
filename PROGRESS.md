@@ -4505,3 +4505,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-15 2:17 PM — Task 36 (Robustness Testing)
 **[evaluate.py]** Write add_blur(images, sigma=1.0) using scipy.ndimage.gaussian_filter
+
+## 2025-10-15 3:22 PM — Task 36 (Robustness Testing)
+**[evaluate.py]** Write brightness_shift(images, delta=0.2)
