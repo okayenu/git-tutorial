@@ -4610,3 +4610,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-18 1:28 PM — Task 36 (Robustness Testing)
 **[evaluate.py]** Test each model under noise, blur, brightness perturbations
+
+## 2025-10-18 2:44 PM — Task 36 (Robustness Testing)
+**[test]** Assert corrupted images remain in valid pixel range [0,1]
