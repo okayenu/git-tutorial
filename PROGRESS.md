@@ -4601,3 +4601,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-17 11:45 PM — Task 36 (Robustness Testing)
 **[Docs]** Update inline comments in modified files for Robustness Testing
+
+## 2025-10-18 8:52 AM — Task 36 (Robustness Testing)
+**[Integrate]** Wire Robustness Testing into main.py pipeline end-to-end
