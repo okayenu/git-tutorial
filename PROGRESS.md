@@ -284,3 +284,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-10-23 6:22 PM — Task 43 (MLflow Experiment Tracking)
 **[debug]** Handle MLflow server not running: use local file:// backend
+
+## 2025-10-23 7:03 PM — Task 43 (MLflow Experiment Tracking)
+**[evaluate]** Compare runs in MLflow UI; identify best val_accuracy run
