@@ -569,3 +569,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-13 9:38 PM — Task 17 (MobileNetV2 Transfer Learning)
 **[docs]** Document freeze/unfreeze strategy and LR rationale
+
+## 2025-11-13 11:19 PM — Task 17 (MobileNetV2 Transfer Learning)
+**[Test]** Run unit tests for MobileNetV2 Transfer Learning; fix failures
