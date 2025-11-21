@@ -725,3 +725,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-20 10:17 PM — Task 18 (EfficientNetB0 Transfer Learning)
 **[evaluate]** Compare EfficientNetB0 vs MobileNetV2 val accuracy + latency
+
+## 2025-11-20 10:47 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[evaluate]** Plot training curves for transfer learning models
