@@ -746,3 +746,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-21 5:53 PM — Task 18 (EfficientNetB0 Transfer Learning)
 **[debug]** Handle slow convergence: unfreeze top 30 layers after 5 epochs
+
+## 2025-11-21 6:22 PM — Task 18 (EfficientNetB0 Transfer Learning)
+**[evaluate]** Compare EfficientNetB0 vs MobileNetV2 val accuracy + latency
