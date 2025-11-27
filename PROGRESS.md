@@ -872,3 +872,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-11-26 11:03 PM — Task 18 (EfficientNetB0 Transfer Learning)
 **[Debug]** Re-test edge cases after latest changes to EfficientNetB0 Transfer Learning
+
+## 2025-11-27 8:37 AM — Task 20 (Lightweight Model (<100K params))
+**[Plan]** Review Task 20 (Lightweight Model (<100K params)) requirements and acceptance criteria
