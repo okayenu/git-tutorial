@@ -959,3 +959,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-02 9:28 AM — Task 20 (Lightweight Model (<100K params))
 **[Test]** Run integration test: main.py with Lightweight Model (<100K params) active
+
+## 2025-12-02 10:19 AM — Task 20 (Lightweight Model (<100K params))
+**[test]** Assert model.count_params() < 100000
