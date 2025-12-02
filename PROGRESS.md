@@ -950,3 +950,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-01 7:19 PM — Task 20 (Lightweight Model (<100K params))
 **[docs]** Document intended use-case: edge deployment
+
+## 2025-12-01 9:38 PM — Task 20 (Lightweight Model (<100K params))
+**[Test]** Run unit tests for Lightweight Model (<100K params); fix failures
