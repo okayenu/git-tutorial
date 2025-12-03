@@ -977,3 +977,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-02 7:19 PM — Task 20 (Lightweight Model (<100K params))
 **[Debug]** Profile Lightweight Model (<100K params) for speed/memory regressions
+
+## 2025-12-02 8:19 PM — Task 20 (Lightweight Model (<100K params))
+**[Test]** Edge-case test: Lightweight Model (<100K params) with empty/corrupt/extreme inputs
