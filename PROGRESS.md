@@ -1022,3 +1022,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-03 10:17 PM — Task 20 (Lightweight Model (<100K params))
 **[Docs]** Update inline comments in modified files for Lightweight Model (<100K params)
+
+## 2025-12-03 10:33 PM — Task 20 (Lightweight Model (<100K params))
+**[Review]** Cross-check Lightweight Model (<100K params) behavior against expected spec
