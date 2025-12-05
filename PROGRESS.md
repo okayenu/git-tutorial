@@ -1043,3 +1043,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-04 6:07 PM — Task 20 (Lightweight Model (<100K params))
 **[Review]** Review Task 20 output against ROADMAP acceptance criteria
+
+## 2025-12-04 7:03 PM — Task 20 (Lightweight Model (<100K params))
+**[Docs]** Add Task 20 entry to CHANGELOG.md
