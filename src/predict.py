@@ -88,3 +88,5 @@ if __name__ == "__main__":
 # [2025-12-12 12:18 PM] Task 46: Load SavedModel or TFLite based on file extension
 
 # [2025-12-12 1:07 PM] Task 46: Preprocess image: load, resize, normalize/standardize
+
+# [2025-12-12 3:47 PM] Task 46: Print top_k predictions with class name and confidence %
