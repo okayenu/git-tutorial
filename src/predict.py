@@ -86,3 +86,5 @@ if __name__ == "__main__":
 # [2025-12-12 11:52 AM] Task 46: Write CLI parser: argparse with --model, --image, --top_k args
 
 # [2025-12-12 12:18 PM] Task 46: Load SavedModel or TFLite based on file extension
+
+# [2025-12-12 1:07 PM] Task 46: Preprocess image: load, resize, normalize/standardize
