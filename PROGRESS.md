@@ -4859,3 +4859,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-16 5:19 PM — Task 46 (predict.py Inference Script)
 **[debug]** Resolve model path not found error with absolute path resolution
+
+## 2025-12-16 6:22 PM — Task 46 (predict.py Inference Script)
+**[docs]** Add usage examples to predict.py docstring and README.md
