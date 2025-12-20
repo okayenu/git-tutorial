@@ -1211,3 +1211,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-20 11:02 AM — Task 19 (Ensemble of Models)
 **[evaluate.py]** Write predict_ensemble(models, X) with avg of softmax outputs
+
+## 2025-12-20 12:07 PM — Task 19 (Ensemble of Models)
+**[evaluate.py]** Add majority-vote variant predict_ensemble_vote()
