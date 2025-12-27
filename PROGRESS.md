@@ -1400,3 +1400,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-27 10:44 AM — Task 48 (t-SNE / UMAP Embedding)
 **[Setup]** Create/open relevant files for t-SNE / UMAP Embedding implementation
+
+## 2025-12-27 1:19 PM — Task 48 (t-SNE / UMAP Embedding)
+**[evaluate.py]** Write extract_embeddings(model, layer_name, X) using Model(inputs, layer_output)
