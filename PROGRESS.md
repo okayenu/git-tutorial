@@ -1415,3 +1415,6 @@ Each entry corresponds to a time-stamped work session committed to the repositor
 
 ## 2025-12-27 5:38 PM — Task 48 (t-SNE / UMAP Embedding)
 **[Test]** Write stub test for t-SNE / UMAP Embedding to define expected behavior
+
+## 2025-12-28 9:23 AM — Task 48 (t-SNE / UMAP Embedding)
+**[evaluate.py]** Write extract_embeddings(model, layer_name, X) using Model(inputs, layer_output)
